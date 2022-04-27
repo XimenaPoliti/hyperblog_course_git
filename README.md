@@ -1,5 +1,5 @@
-# Project Hyperblog :fa-star: :fa-heart:
-Project created to practice a Git & Github course :tw-1f338:
+# Project Hyperblog 
+Project created to practice a Git & Github course 
 
 ### En este curso he aprendido
 - Todos los comandos de Git
