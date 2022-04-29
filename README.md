@@ -6,3 +6,4 @@ Project created to practice a Git & Github course
 - El flujo de trabajo de Github
 - Buenas prácticas
 - Trabajar con el repositorio local y remoto
+- Github Pages
