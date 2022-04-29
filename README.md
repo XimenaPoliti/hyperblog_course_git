@@ -7,3 +7,4 @@ Project created to practice a Git & Github course
 - Buenas prácticas
 - Trabajar con el repositorio local y remoto
 - Github Pages
+- Pull requests
